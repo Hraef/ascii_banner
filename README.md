@@ -5,6 +5,7 @@ This repo will create a ascii formatted banner.
 1. Python will needed to be instlalled. You can get the download here:
 
 https://www.python.org/downloads/
+
 2. Pyfiglet module will need ti=o be installed. to do that use pip as show below
 
 `
