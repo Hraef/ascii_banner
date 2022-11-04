@@ -15,7 +15,7 @@ pip install pyfiglet
 3. In your python file make sure to use import in order to use pyfiglet
 
 `
-module pyfiglet
+import pyfiglet
 `
 
 ## Banner
